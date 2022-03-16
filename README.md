@@ -1,7 +1,8 @@
 # Purpose of this project: 
 
-Create an website that user can search easily many recipe to do the food with the keyword we tapped. 
-In this project, we use React with the function component to resolve the create the components. Besides, we use fetch request in order to handle the data and then PROPS to transfer extracted data from the component to another.
+Create an website that user can search easily many recipes to make the food, which has the name that is similar to the keyword we tapped into the searchbar. 
+
+In this project, we use React with the function component to create the components. Besides, we use fetch request in order to handle the data and then PROPS to transfer extracted data from the component to another one.
 
 # Getting Started with Create React App
 
